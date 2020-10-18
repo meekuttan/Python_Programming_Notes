@@ -4,7 +4,8 @@
 
 This repository contains in depth notes for Python Programming.
 For missing content, refer [Official Documentation](https://docs.python.org/)  
-For some short snippets in python, visit [30 seconds of code - python](https://www.30secondsofcode.org/python/p/1)
+For some short snippets in python, visit [30 seconds of code - python](https://www.30secondsofcode.org/python/p/1)  
+For short notes refer, [Cheat Sheet](Cheat_sheet.pdf)
 
 ### Sequence of notes:
 <ol>
@@ -16,7 +17,7 @@ For some short snippets in python, visit [30 seconds of code - python](https://w
     <li> <a href = 'DS_Lists.ipynb'> Data Structures - Lists </a> </li>
     <li> <a href = 'DS_Strings.ipynb'> Data Stuctures - String </a> </li>
     <li> <a href = 'DS_Tuples.ipynb'> Data Structures - Tuples</a></li>
-    <li>Data Structures - Dictionaries</li>
+    <li> <a href = 'DS_Dictionaries.ipynb'>Data Structures - Dictionaries</a></li>
     <li>Data Structres - Sets</li>
     <li>Modules and Packages</li>
     <li>File Handling</li>
@@ -24,8 +25,9 @@ For some short snippets in python, visit [30 seconds of code - python](https://w
     <li>Errors and Exception Handling</li>
     <li> <a href = 'Generators.ipynb'> Python Generators </a> </li>
     <li>Python Iterators</li>
+    <li>Numbers in Programming</li>
     <li>Object Oriented Programming in Python</li>
-    <li> Regular Expressions</li>
+    <li> Regular Expressions in Python</li>
 </ol>
 
 ### Test questions:
